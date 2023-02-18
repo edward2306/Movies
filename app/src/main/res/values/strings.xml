@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="genre_fragment_label">Genre Fragment</string>
+    <string name="movie_fragment_label">Movie Fragment</string>
+    <string name="detail_fragment_label">Detail Fragment</string>
+
+    <string name="empty">Data tidak ada</string>
+    <string name="error">Sedang dalam masalah</string>
+</resources>
